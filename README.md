@@ -1,2 +1,2 @@
 # Computer-Graphics
-Something experiments of computer graphics！！！
+Some experiments of computer graphics！！！
